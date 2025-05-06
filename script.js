@@ -78,14 +78,9 @@ document.addEventListener("DOMContentLoaded", function () {
  
  type();
 
- const navToggle = document.getElementById('nav-toggle');
-const navLinks = document.getElementById('nav-links');
-
-navToggle.addEventListener('click', function() {
-  navLinks.classList.toggle('active');
-   if (navLinks.classList.contains('active')) {
-    navToggle.innerHTML = '✖';  
-  } else {
-    navToggle.innerHTML = '&#9776;';  
-  }
-});
+ const toggleBtn = document.getElementById('menu-toggle');
+ const navLinks = document.getElementById('nav-links');
+ 
+ toggleBtn.addEventListener('click', () => {
+   navLinks.classList.toggle('show');
+ });
