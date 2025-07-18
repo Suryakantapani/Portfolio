@@ -4,10 +4,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>My Portfolio</title>
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" 
         integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ==" 
         crossorigin="anonymous" referrerpolicy="no-referrer" />
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
         <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -29,11 +33,11 @@
 
     <div id="about" class="section text-center about_name">
   <div class="x">
-    <img src="profolio.jpeg" alt="Suryakanta Photo" class="profile-img animate__animated animate__zoomIn">
-    <h1 class="name animate__animated animate__fadeInDown">Hello, I'm <span class="z">Suryakanta</span></h1>
-    <h2 id="typing" class="animate__animated animate__fadeInUp"></h2>
+    <img src="profolio.jpeg" alt="Suryakanta Photo" class="profile-img animate__animated animate__zoomIn animate__delay-1s">
+    <h1 class="name animate__animated animate__fadeInDown animate__delay-2s">Hello, I'm <span class="z">Suryakanta</span></h1>
+    <h2 id="typing" class="animate__animated animate__fadeInUp animate__delay-3s"></h2>
     
-    <div class="hari_03 animate__animated animate__fadeIn">
+    <div class="hari_03 animate__animated animate__fadeIn animate__delay-4s">
       <h1>About Me</h1>
       <ul>
         <li><span class="icon">🧠</span> <strong>Problem Solver:</strong> I enjoy solving complex problems with innovative, efficient solutions that simplify challenges and drive impactful results.</li>
@@ -45,7 +49,7 @@
       <div class="cta">
         Want to collaborate or connect?
         <br>
-        <button class="copy-btn" onclick="copyEmail()"> Copy My Email</button>
+        <button class="copy-btn" onclick="copyEmail()">📧 Copy My Email</button>
       </div>
     </div>
   </div>
@@ -306,7 +310,7 @@
 
    <div id="Experience">
     <div class="experience_container">
-      <h2 class="experience_title">My Certifications</h2>
+      <h2 class="experience_title">My Experience</h2>
       <div class="experience_grid">
         <div class="experience_card">
           <a href="https://codex-iter.in/">
@@ -337,6 +341,7 @@
     <div class="container">
       <div class="jumbotron con bg-info p-4 rounded">
         <h2 class="contact-header text-center text-light">Contact</h2>
+        <p class="text-center mb-4" style="color: #94a3b8; font-size: 1.1rem;">Let's connect and build something amazing together!</p>
         <div class="social-icons text-center mb-4">
           <a href="https://www.linkedin.com/in/suryakanta-pani-19a544294" target="_blank" class="text-light mx-2"><i class="fab fa-linkedin fa-2x"></i></a>
           <a href="https://github.com/Suryakantapani" target="_blank" class="text-light mx-2"><i class="fab fa-github fa-2x"></i></a>
@@ -357,15 +362,20 @@
             <label for="message" class="form-label">Message</label>
             <textarea class="form-control" id="message" rows="4" placeholder="Enter your message" required></textarea>
           </div>
-          <button type="submit" class="btn btn-light w-100">Send Message</button>
+          <button type="submit" class="btn btn-light w-100">🚀 Send Message</button>
         </form>
       </div>
     </div>
   </div>
+   
+   <!-- Add a subtle footer -->
+   <footer style="background: rgba(15, 23, 42, 0.9); padding: 20px; text-align: center; color: #94a3b8; border-top: 1px solid rgba(56, 189, 248, 0.1);">
+     <p>&copy; 2025 Suryakanta Pani. Crafted with ❤️ and lots of ☕</p>
+   </footer>
+   
    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"></script>
-  <script src="https://cdn.tailwindcss.com"></script>
 
    
 </body>
