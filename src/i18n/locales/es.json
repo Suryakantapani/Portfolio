@@ -1,0 +1,75 @@
+{
+  "nav": {
+    "about": "Acerca de",
+    "education": "Educación",
+    "skills": "Habilidades",
+    "projects": "Proyectos",
+    "certifications": "Certificaciones",
+    "experience": "Experiencia",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "greeting": "Hola, soy",
+    "name": "Suryakanta",
+    "roles": [
+      "Desarrollador Full Stack 💻",
+      "Solucionador de Problemas 🧠",
+      "Desarrollador Backend 🔧",
+      "Desarrollador Frontend 🎨",
+      "Desarrollador Blockchain ⛓️",
+      "Innovador Tecnológico 🚀"
+    ]
+  },
+  "about": {
+    "title": "Acerca de Mí",
+    "problemSolver": "Solucionador de Problemas: Disfruto resolviendo problemas complejos con soluciones innovadoras y eficientes.",
+    "backendDev": "Desarrollador Backend: Construyo sistemas y APIs escalables y seguros.",
+    "blockchainDev": "Desarrollador Blockchain: Exploro tecnologías blockchain, creando aplicaciones descentralizadas y contratos inteligentes.",
+    "dsaEnthusiast": "Entusiasta de DSA: Sobresalgo en estructuras de datos y algoritmos para la resolución eficiente de problemas.",
+    "cta": "¿Quieres colaborar o conectar?",
+    "copyEmail": "📧 Copiar Mi Email"
+  },
+  "education": {
+    "title": "Educación",
+    "highSchool": "Escuela Secundaria Bisweswar Project",
+    "highSchoolPercent": "Porcentaje de Secundaria: 74%",
+    "college": "Colegio de Ciencias Junior Saraswati",
+    "collegePercent": "Educación Superior (Ciencias): 87%",
+    "university": "SIKSHA `O` ANUSANDHAN",
+    "universityCgpa": "CGPA de Licenciatura: 9.58"
+  },
+  "skills": {
+    "title": "Mis Habilidades",
+    "subtitle": "Lenguajes y Tecnologías"
+  },
+  "projects": {
+    "title": "Mis Proyectos",
+    "hiveMind": "Una comunidad de programación para estudiantes.",
+    "instaMark": "Sistema de asistencia inteligente.",
+    "nexaHealth": "Aplicación de tareas con herramientas de productividad.",
+    "krusiSathi": "Aplicación agrícola para vender productos."
+  },
+  "certifications": {
+    "title": "Mis Certificaciones",
+    "subtitle": "Estas son algunas de las certificaciones que he recibido."
+  },
+  "experience": {
+    "title": "Mi Experiencia",
+    "codex": "Miembro",
+    "pw": "Embajador del Campus"
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "¡Conectemos y construyamos algo increíble juntos!",
+    "nameLabel": "Tu Nombre",
+    "namePlaceholder": "Ingresa tu nombre",
+    "emailLabel": "Tu Email",
+    "emailPlaceholder": "Ingresa tu email",
+    "messageLabel": "Mensaje",
+    "messagePlaceholder": "Ingresa tu mensaje",
+    "sendButton": "🚀 Enviar Mensaje",
+    "sending": "🚀 Enviando...",
+    "sent": "✅ ¡Mensaje Enviado!"
+  },
+  "footer": "Hecho con ❤️ y mucho ☕"
+}

@@ -8,10 +8,20 @@
     "start": "http-server . -p 3000",
     "build": "echo 'Static site - no build needed'"
   },
-  "keywords": ["portfolio", "website", "personal"],
+  "keywords": [
+    "portfolio",
+    "website",
+    "personal"
+  ],
   "author": "Suryakanta Pani",
   "license": "MIT",
   "devDependencies": {
     "http-server": "^14.1.1"
+  },
+  "dependencies": {
+    "i18next": "^25.3.2",
+    "i18next-browser-languagedetector": "^8.2.0",
+    "react-i18next": "^15.6.0",
+    "react-router-dom": "^7.7.0"
   }
 }

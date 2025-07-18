@@ -1,0 +1,75 @@
+{
+  "nav": {
+    "about": "About",
+    "education": "Education",
+    "skills": "Skills",
+    "projects": "Projects",
+    "certifications": "Certifications",
+    "experience": "Experience",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hello, I'm",
+    "name": "Suryakanta",
+    "roles": [
+      "Full Stack Developer 💻",
+      "Problem Solver 🧠",
+      "Backend Developer 🔧",
+      "Frontend Developer 🎨",
+      "Blockchain Developer ⛓️",
+      "Tech Innovator 🚀"
+    ]
+  },
+  "about": {
+    "title": "About Me",
+    "problemSolver": "Problem Solver: I enjoy solving complex problems with innovative, efficient solutions that simplify challenges and drive impactful results.",
+    "backendDev": "Backend Developer: I build scalable and secure systems & APIs.",
+    "blockchainDev": "Blockchain Developer: I explore blockchain technologies, creating decentralized applications and smart contracts.",
+    "dsaEnthusiast": "DSA Enthusiast: I excel in data structures and algorithms for efficient, optimized problem-solving.",
+    "cta": "Want to collaborate or connect?",
+    "copyEmail": "📧 Copy My Email"
+  },
+  "education": {
+    "title": "Education",
+    "highSchool": "Bisweswar Project High School",
+    "highSchoolPercent": "High School Percentage: 74%",
+    "college": "Saraswati Junior Science College",
+    "collegePercent": "Higher Education (Science): 87%",
+    "university": "SIKSHA `O` ANUSANDHAN",
+    "universityCgpa": "Bachelor Degree CGPA: 9.58"
+  },
+  "skills": {
+    "title": "My Skills",
+    "subtitle": "Languages & Technologies"
+  },
+  "projects": {
+    "title": "My Projects",
+    "hiveMind": "A coding community for students.",
+    "instaMark": "Smart attendance system.",
+    "nexaHealth": "To-do app with productivity tools.",
+    "krusiSathi": "Farming app for selling produce."
+  },
+  "certifications": {
+    "title": "My Certifications",
+    "subtitle": "These are some of the certifications I have received."
+  },
+  "experience": {
+    "title": "My Experience",
+    "codex": "Member",
+    "pw": "Campus Ambassador"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Let's connect and build something amazing together!",
+    "nameLabel": "Your Name",
+    "namePlaceholder": "Enter your name",
+    "emailLabel": "Your Email",
+    "emailPlaceholder": "Enter your email",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Enter your message",
+    "sendButton": "🚀 Send Message",
+    "sending": "🚀 Sending...",
+    "sent": "✅ Message Sent!"
+  },
+  "footer": "Crafted with ❤️ and lots of ☕"
+}

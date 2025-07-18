@@ -1,0 +1,75 @@
+{
+  "nav": {
+    "about": "À propos",
+    "education": "Éducation",
+    "skills": "Compétences",
+    "projects": "Projets",
+    "certifications": "Certifications",
+    "experience": "Expérience",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Bonjour, je suis",
+    "name": "Suryakanta",
+    "roles": [
+      "Développeur Full Stack 💻",
+      "Résolveur de Problèmes 🧠",
+      "Développeur Backend 🔧",
+      "Développeur Frontend 🎨",
+      "Développeur Blockchain ⛓️",
+      "Innovateur Tech 🚀"
+    ]
+  },
+  "about": {
+    "title": "À Propos de Moi",
+    "problemSolver": "Résolveur de Problèmes : J'aime résoudre des problèmes complexes avec des solutions innovantes et efficaces.",
+    "backendDev": "Développeur Backend : Je construis des systèmes et APIs évolutifs et sécurisés.",
+    "blockchainDev": "Développeur Blockchain : J'explore les technologies blockchain, créant des applications décentralisées et des contrats intelligents.",
+    "dsaEnthusiast": "Passionné de DSA : J'excelle dans les structures de données et algorithmes pour une résolution efficace des problèmes.",
+    "cta": "Vous voulez collaborer ou vous connecter ?",
+    "copyEmail": "📧 Copier Mon Email"
+  },
+  "education": {
+    "title": "Éducation",
+    "highSchool": "École Secondaire Bisweswar Project",
+    "highSchoolPercent": "Pourcentage du Lycée : 74%",
+    "college": "Collège de Sciences Junior Saraswati",
+    "collegePercent": "Enseignement Supérieur (Sciences) : 87%",
+    "university": "SIKSHA `O` ANUSANDHAN",
+    "universityCgpa": "CGPA de Licence : 9.58"
+  },
+  "skills": {
+    "title": "Mes Compétences",
+    "subtitle": "Langages et Technologies"
+  },
+  "projects": {
+    "title": "Mes Projets",
+    "hiveMind": "Une communauté de codage pour étudiants.",
+    "instaMark": "Système de présence intelligent.",
+    "nexaHealth": "Application de tâches avec outils de productivité.",
+    "krusiSathi": "Application agricole pour vendre des produits."
+  },
+  "certifications": {
+    "title": "Mes Certifications",
+    "subtitle": "Voici quelques-unes des certifications que j'ai reçues."
+  },
+  "experience": {
+    "title": "Mon Expérience",
+    "codex": "Membre",
+    "pw": "Ambassadeur du Campus"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Connectons-nous et construisons quelque chose d'incroyable ensemble !",
+    "nameLabel": "Votre Nom",
+    "namePlaceholder": "Entrez votre nom",
+    "emailLabel": "Votre Email",
+    "emailPlaceholder": "Entrez votre email",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Entrez votre message",
+    "sendButton": "🚀 Envoyer le Message",
+    "sending": "🚀 Envoi...",
+    "sent": "✅ Message Envoyé !"
+  },
+  "footer": "Créé avec ❤️ et beaucoup de ☕"
+}
